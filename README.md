@@ -18,3 +18,7 @@ ai='python3 ~/projects/temp/openaiDavince003/main.py'
 ```
 python3 main.py "How tall is the tallest tree?"
 ```
+or
+```
+ai "How tall is the tallest tree?"
+```
